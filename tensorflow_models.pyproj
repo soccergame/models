@@ -986,6 +986,7 @@
     <Content Include="research\skip_thoughts\skip_thoughts\data\BUILD" />
     <Content Include="research\skip_thoughts\skip_thoughts\ops\BUILD" />
     <Content Include="research\skip_thoughts\WORKSPACE" />
+    <Content Include="research\slim\BUILD" />
     <Content Include="research\slim\datasets\download_and_convert_imagenet.sh" />
     <Content Include="research\slim\datasets\download_imagenet.sh" />
     <Content Include="research\slim\datasets\imagenet_2012_validation_synset_labels.txt" />
