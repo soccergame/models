@@ -3024,7 +3024,6 @@
     <Compile Include="research\slim\preprocessing\__init__.py" />
     <Compile Include="research\slim\setup.py" />
     <Compile Include="research\slim\train_image_classifier.py" />
-    <Compile Include="research\slim\__init__.py" />
     <Compile Include="research\steve\agent.py" />
     <Compile Include="research\steve\config.py" />
     <Compile Include="research\steve\envwrap.py" />
